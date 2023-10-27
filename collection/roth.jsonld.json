@@ -1,0 +1,101 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1020686"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1234256"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1213975"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1018993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1208065"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1852329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/517154"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207519"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206424"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214263"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/785521"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1810956"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1203476"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1218717"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:description": "Raymond F. Roth (1915-1991) spent much of his career working for farm labor programs. After a brief stint from 1941 to 1942 working for the Farm Security Administration, Roth joined the U.S. Navy during World War II. After his return to civilian life, Roth worked in different capacities for the California Department of Employment, Farm Labor Service. His work included the administration of migrant labor and housing programs for U.S. citizens as well as Mexican Nationals in the Bracero Program.\n\n Photographs document the Farm Labor Service's processing of the Braceros. Also included are images of Farm Labor Service staff members and offices as well as farm laborers. The majority of the Farm Labor Service staff photographs are formal group portraits taken at annual meetings, but informal snapshots are also included. Roth appears in most of the staff photographs. \n\n \n\n These photographs are part of a larger collection. A complete inventory is available in the collection’s finding aid at the [Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/).",
+  "schema:identifier": [
+    "D-234",
+    "ark:/87293/d3jq0t06g/"
+  ],
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3n00zz4d/roth17_50a.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Roth (Raymond F.) Papers",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

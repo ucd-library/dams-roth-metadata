@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1852329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1020686"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1208065"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1018993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1206424"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/517154"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1810956"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/785521"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/roth17_16a.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1950-01"
+  },
+  "schema:description": "[From original label] Built in 1846 from parts brought around the horn in sailing ships, the 40 foot water wheel of the Bale Mill, two miles north of St. Helena, Napa County, ground the country's grain crops for many years. In the 100 years since this mill was built Napa County's farmers have turned to growing prunes, wine grapes and other specialty crops which use  almost 4,000 seasonal workers at the harvest peak. The Farm Labor Information Truck in the foreground is one of the latest pieces of modern equipment acquired by the C.S.E.S. to help Napa County farmers recruit seasonal workers when they are needed.",
+  "schema:identifier": [
+    "D-234, Box:17 Folder:16",
+    "ark:/87293/d36w96d9w"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Bale Mill, Napa County",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "Jan. 1950"
+}

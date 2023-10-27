@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1852329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207519"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1018993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/517154"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1020686"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/785521"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1810956"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/roth17_33a.tif"
+  },
+  "schema:creator": "Rucker, Bayard",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1952-09"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3xd0r299",
+    "D-234, Box:17 Folder:33"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Mexican Nationals fingerprinted",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "Sept. 1952"
+}

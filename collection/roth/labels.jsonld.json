@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1018993",
+    "http://schema.org/name": "Mexican American migrant agricultural laborers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1020686",
+    "http://schema.org/name": "Migrant agricultural laborers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1203476",
+    "http://schema.org/name": "California--Brentwood"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206424",
+    "http://schema.org/name": "California--Napa County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207519",
+    "http://schema.org/name": "California--El Centro"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1208065",
+    "http://schema.org/name": "California--Saint Helena"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1213975",
+    "http://schema.org/name": "California--Santa Paula"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214263",
+    "http://schema.org/name": "California--Salinas"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1218717",
+    "http://schema.org/name": "California--Fillmore"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1234256",
+    "http://schema.org/name": "California--Oceano"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1810956",
+    "http://schema.org/name": "California. Employment Development Department"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1852329",
+    "http://schema.org/name": "United States. Department of Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/517154",
+    "http://schema.org/name": "United States. Farm Security Administration"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/785521",
+    "http://schema.org/name": "Seasonal Farm Laborers Program"
+  }
+]

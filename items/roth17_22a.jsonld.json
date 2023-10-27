@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1234256"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/785521"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1810956"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/517154"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1018993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1852329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1020686"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/roth17_22a.tif"
+  },
+  "schema:creator": "Rucker, Bayard",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1951-09-13"
+  },
+  "schema:description": "[From original label] This group of Mexican nations came to Oceano, San Luis Obispo County, where a labor shortage existed in the celery harvest. They were delighted with the big celery knives which had just been issued them and were eager to start to work. At left is Joe Quaresma, Farm Placement Representative, who speaks Spanish and who gave working instructions to the men. The bus in the background was used to haul the workers from the camp to the field and back. An increasing number of farmers are replacing trucks with buses to haul their workers in greater comfort and safety.",
+  "schema:identifier": [
+    "ark:/87293/d3tm72557",
+    "D-234, Box:17 Folder:22"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Mexican Nationals arrive to help harvest celery",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "Sept. 1951"
+}
