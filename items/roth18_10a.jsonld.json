@@ -46,9 +46,6 @@
     "D-234, Box:18 Folder:10",
     "ark:/87293/d36q1sn3d"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },

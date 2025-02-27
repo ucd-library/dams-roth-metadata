@@ -50,9 +50,6 @@
     "D-234, Box:17 Folder:40",
     "ark:/87293/d34x54m8g"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3h4nc8mz/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
